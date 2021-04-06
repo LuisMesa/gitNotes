@@ -1,0 +1,7 @@
+Bulbasaur
+Charmander
+Charizard
+Squirtle
+Pikachu
+Raichu
+Nidoran
