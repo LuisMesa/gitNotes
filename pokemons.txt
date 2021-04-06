@@ -6,3 +6,4 @@ Pikachu
 Raichu
 Nidoran
 Golbat
+Lapras
